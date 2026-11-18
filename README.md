@@ -2,6 +2,9 @@
 
 Streamlit + LangChain + Groq. Meet **Mimi**, the animated doll mascot who blinks, thinks, and cheers while you study. Groq offers free API access with usage limits; check its current rate limits and model availability in your Groq account.
 
+<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/3d5c6207-2c8d-4cff-91ba-11ed73d3efe0" />
+
+
 ## Features
 | Tab | What it does |
 |---|---|
