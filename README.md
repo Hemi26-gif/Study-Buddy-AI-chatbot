@@ -9,9 +9,9 @@ Streamlit + LangChain + Groq. Meet **Mimi**, the animated doll mascot who blinks
 | Tab | What it does |
 |---|---|
 | 💬 Chat & Learn | Chatbot that explains difficult concepts with examples (streaming + memory). Try: *"Teach me Python loops with examples."* |
-| 📅 Study Planner | Day-by-day schedule from your topic, goal, days, hours/day and start date. Downloadable. |
-| 📝 MCQ Maker | Generates MCQs with hidden answers + explanations. Downloadable. |
-| 🎯 Take a Quiz | Interactive quiz with scoring, review, retake, and Mimi's reactions. |
+|  Study Planner | Day-by-day schedule from your topic, goal, days, hours/day and start date. Downloadable. |
+|  MCQ Maker | Generates MCQs with hidden answers + explanations. Downloadable. |
+|  Take a Quiz | Interactive quiz with scoring, review, retake, and Mimi's reactions. |
 
 Bonus: upload PDF, TXT, or Word DOCX notes in the sidebar and every feature will use them. Uploading a file automatically selects `qwen/qwen3.8-27b`; clearing/removing it selects `openai/gpt-oss-120b`. Without an upload, the default is `openai/gpt-oss-20b`.
 
